@@ -1,0 +1,7 @@
+flask
+numpy
+pandas==1.5
+lightgbm
+catboost
+wtforms
+werkzeug
